@@ -1,2 +1,2 @@
-# Takagi-Bot
-Takagi bot
+# TakagiBot
+Takagibot
